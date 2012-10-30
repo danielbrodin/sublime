@@ -1,0 +1,13 @@
+  "settings":
+  {
+    // Hardcore mode will not allow you to run any commands from the command palette, thus forcing
+    // you to remember them instead.
+    "hardcore_mode": true
+  },
+
+  "commands":
+  [
+    // Example setting, shows "QuickRef" and "alt+p" in the Command Palette. "caption" is optional. "args"
+    // ia necessary depending on the command (can be left out altogether if not used.
+    { "keys": ["alt+ctrl+p"], "command": "quick_ref", "args": {}, "caption": "QuickRef" }
+  ]

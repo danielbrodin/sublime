@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": 1351524836,
+	"installed_packages":
+	[
+		"Alignment",
+		"ASCII Decorator",
+		"BracketHighlighter",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"SFTP",
+		"sublime-github",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}

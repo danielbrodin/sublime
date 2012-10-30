@@ -1,0 +1,17 @@
+<snippet>
+<content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="${1:utf-8}">
+		<title>${2:Page Title}</title>
+		${3:<link type="text/css" rel="stylesheet" href="css/style.css">}
+		${4:<script src="js/global.js"></script>}
+	</head>
+	<body>
+		$0
+	</body>
+</html>
+]]></content>
+<tabTrigger>html5</tabTrigger>
+</snippet>

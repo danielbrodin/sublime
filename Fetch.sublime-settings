@@ -1,0 +1,29 @@
+{
+	"files":
+	{
+		"history": "https://raw.github.com/balupton/history.js/master/scripts/compressed/history.js",
+		"incrementable": "https://raw.github.com/LeaVerou/Incrementable/master/incrementable.js",
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"json2": "https://raw.github.com/douglascrockford/JSON-js/master/json2.js",
+		"modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
+		"normalize.css": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+		"prefixfree": "https://raw.github.com/LeaVerou/prefixfree/master/prefixfree.min.js",
+		"raphael": "https://raw.github.com/DmitryBaranovskiy/raphael/master/raphael-min.js",
+		"raphael-free transform": "https://raw.github.com/ElbertF/Raphael.FreeTransform/master/raphael.free_transform.js",
+		"raphael-serialize": "https://raw.github.com/jspies/raphael.serialize/master/raphael.serialize.js",
+		"twitter-bootstrap-alert": "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-alert.js",
+		"twitter-bootstrap-button": "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-button.js",
+		"twitter-bootstrap-dropdown": "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-dropdown.js",
+		"twitter-bootstrap-modal": "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-modal.js",
+		"twitter-bootstrap-popover": "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-popover.js",
+		"twitter-bootstrap-scrollspy": "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-scrollspy.js",
+		"twitter-bootstrap-tab": "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-tab.js",
+		"twitter-bootstrap-tooltip": "https://raw.github.com/twitter/bootstrap/master/js/bootstrap-tooltip.js"
+	},
+	"packages":
+	{
+		"html5-boilerplate": "http://github.com/h5bp/html5-boilerplate/zipball/v3.0stripped",
+		"twitter-bootstrap": "https://github.com/twitter/bootstrap/zipball/master",
+		"wordpress": "http://wordpress.org/latest.zip"
+	}
+}
