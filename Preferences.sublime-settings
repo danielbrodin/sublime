@@ -12,10 +12,8 @@
 		"-"
 	],
 	"caret_style": "phase",
-	//"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"color_scheme": "Packages/User/Tomorrow/Tomorrow-Night-Eighties-modified.tmTheme",
 	"detect_slow_plugins": false,
-	/*"draw_centered": true,*/
 	"font_face": "BitstreamVeraSansMono-Roman",
 	"font_size": 12.0,
 	"highlight_line": true,
@@ -25,12 +23,12 @@
 	],
 	"mid_line_tabs": true,
 	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
 	"scroll_past_end": true,
 	"sublimelinter": "load-save",
 	"theme": "Soda Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
 	"word_wrap": true,
-	"wrap_width": "auto",
-	"overlay_scroll_bars": "enabled"
+	"wrap_width": "auto"
 }

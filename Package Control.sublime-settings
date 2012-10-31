@@ -1,9 +1,8 @@
 {
-	"auto_upgrade_last_run": 1351610993,
+	"auto_upgrade_last_run": 1351676478,
 	"installed_packages":
 	[
 		"Alignment",
-		"ASCII Decorator",
 		"BracketHighlighter",
 		"LiveReload",
 		"Nettuts+ Fetch",
