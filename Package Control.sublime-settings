@@ -1,9 +1,10 @@
 {
-	"auto_upgrade_last_run": 1351697981,
+	"auto_upgrade_last_run": 1351722966,
 	"installed_packages":
 	[
 		"Alignment",
 		"BracketHighlighter",
+		"emmet-sublime",
 		"LiveReload",
 		"Nettuts+ Fetch",
 		"Package Control",
@@ -11,7 +12,10 @@
 		"sublime-github",
 		"SublimeLinter",
 		"Terminal",
-		"Theme - Soda",
-		"ZenCoding"
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/sergeche/emmet-sublime"
 	]
 }
