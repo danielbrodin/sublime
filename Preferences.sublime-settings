@@ -12,7 +12,7 @@
 		"-"
 	],
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/Tomorrow/Tomorrow-Night-Eighties-modified.tmTheme",
+	"color_scheme": "Packages/User/themes/Tomorrow/Tomorrow-Night-Eighties-modified.tmTheme",
 	"detect_slow_plugins": false,
 	"font_face": "BitstreamVeraSansMono-Roman",
 	"font_size": 12.0,
