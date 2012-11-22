@@ -19,7 +19,8 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"emmet-sublime"
 	],
 	"mid_line_tabs": true,
 	"open_files_in_new_window": false,
@@ -30,5 +31,7 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
 	"word_wrap": true,
-	"wrap_width": "auto"
+	"wrap_width": "auto",
+	"fade_inactive_panes": true,
+	"fade_inactive_panes_grey_scale": 0
 }
