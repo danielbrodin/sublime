@@ -2,25 +2,28 @@
 	"alignment_chars":
 	[
 		"=",
-		":",
-		"-"
+		":"
 	],
 	"alignment_space_chars":
 	[
 		"=",
-		":",
-		"-"
+		":"
 	],
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/themes/Tomorrow/Tomorrow-Night-Eighties-modified.tmTheme",
+	"color_scheme": "Packages/User/themes/base16/base16-ocean.dark.tmTheme",
 	"detect_slow_plugins": false,
-	"font_face": "BitstreamVeraSansMono-Roman",
-	"font_size": 12.0,
+	"fade_inactive_panes": true,
+	"fade_inactive_panes_grey_scale": 0,
+	/*"font_face": "BitstreamVeraSansMono-Roman",
+	"font_size": 13.0,*/
+	"font_face": "Ubuntu Mono",
+	"font_size": 16.0,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage",
-		"emmet-sublime"
+		"emmet-sublime",
+		"LiveReload"
 	],
 	"mid_line_tabs": true,
 	"open_files_in_new_window": false,
@@ -31,7 +34,5 @@
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
 	"word_wrap": true,
-	"wrap_width": "auto",
-	"fade_inactive_panes": true,
-	"fade_inactive_panes_grey_scale": 0
+	"wrap_width": "auto"
 }

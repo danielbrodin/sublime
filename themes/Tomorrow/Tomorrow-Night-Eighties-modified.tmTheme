@@ -14,7 +14,6 @@
 			<dict>
 				<key>background</key>
 				<string>#2D2D2D</string>
-				<!--string>#222222</string-->
 				<key>caret</key>
 				<string>#CCCCCC</string>
 				<key>foreground</key>
