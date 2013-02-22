@@ -10,12 +10,10 @@
 		":"
 	],
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/themes/base16/base16-ocean.dark.tmTheme",
+	"color_scheme": "Packages/User/themes/webdeveloper.tmTheme",
 	"detect_slow_plugins": false,
 	"fade_inactive_panes": true,
 	"fade_inactive_panes_grey_scale": 0,
-	/*"font_face": "BitstreamVeraSansMono-Roman",
-	"font_size": 13.0,*/
 	"font_face": "Ubuntu Mono",
 	"font_size": 16.0,
 	"highlight_line": true,
@@ -24,6 +22,11 @@
 		"Vintage",
 		"emmet-sublime",
 		"LiveReload"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
 	],
 	"mid_line_tabs": true,
 	"open_files_in_new_window": false,
