@@ -35,6 +35,7 @@
 	"sublimelinter": "load-save",
 	"theme": "Soda Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
 	"word_wrap": true,
 	"wrap_width": "auto"

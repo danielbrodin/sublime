@@ -1,0 +1,23 @@
+[
+    {
+        "class": "sidebar_label",
+        "parents": [{"class": "tree_row", "attributes": ["expandable", "hover"]}],
+        "color": [235, 235, 235]
+    },
+    // Sidebar entry selected
+    {
+        "class": "sidebar_label",
+        "parents": [{"class": "tree_row", "attributes": ["selected"]}],
+        "color": [210, 210, 210],
+        "shadow_color": [0, 0, 0],
+        "shadow_offset": [0, 1]
+    },
+    //
+    // MINI MAP
+    //
+
+    {
+        "class": "minimap_control",
+        "viewport_color": [200, 200, 200, 35]
+    }
+]

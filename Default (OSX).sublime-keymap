@@ -1,5 +1,6 @@
 [
 	{ "keys": ["super+shift+c"], "command": "toggle_comment", "args": { "block": true } },
 	{ "keys": ["super+alt+t"], "command": "open_terminal" },
-	{ "keys": ["ctrl+p"], "command": "quick_ref" }
+	{ "keys": ["ctrl+p"], "command": "quick_ref" },
+	{"keys": ["super+.", "<character>"], "command": "easy_motion", "args": {"select_text": false} }
 ]

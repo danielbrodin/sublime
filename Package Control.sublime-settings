@@ -4,8 +4,11 @@
 	[
 		"Alignment",
 		"BracketHighlighter",
+		"EasyMotion",
+		"EasySettings",
 		"Emmet",
 		"LiveReload",
+		"MaxPane",
 		"Navigation History",
 		"Nettuts+ Fetch",
 		"Origami",
@@ -15,7 +18,9 @@
 		"SublimeLinter",
 		"SublimeTODO",
 		"Terminal",
+		"Text Pastry",
 		"Theme - Phoenix",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Web Inspector"
 	]
 }
